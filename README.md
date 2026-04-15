@@ -32,7 +32,7 @@ Web app para explorar el calendario estacional de Argentina. Bilingüe, con UI a
 Ejercicio de código + diseño: una experiencia de respiración con ilustración hand-drawn y animaciones en CSS puro.
 `HTML` `CSS` `JavaScript`
 
-**Edvance Design System**
+**[Edvance Design System](https://github.com/No-Country-simulation/S03-26-Equipo-28-Product-Design)**
 Sistema de diseño multi-marca con arquitectura de tokens en dos capas, componentes en Figma y cumplimiento WCAG 2.1 AA por cada sub-marca.
 `Figma` `Tokens` `Phosphor Icons`
 
