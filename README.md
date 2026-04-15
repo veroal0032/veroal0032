@@ -3,7 +3,7 @@
 
 Empecé en la arquitectura — pensando en escala, en cómo los espacios guían a las personas, en cada detalle que hace que algo funcione o falle. Hoy hago lo mismo, pero en pantallas.
 
-Diseño interfaces que equilibran estructura y sensibilidad**.
+Diseño interfaces que equilibran estructura y sensibilidad **.
 
 ---
 
