@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26756129/README.md)
 # Verónica Alvarez Lovera
 **UX/UI Designer · Buenos Aires, Argentina**
 
